@@ -7,8 +7,7 @@ I'm a **Computer Science Engineering** student passionate about **Cloud Computin
 - ☁ **Cloud Computing:** AWS (EC2, S3, VPC, IAM, RDS, CloudFront, CloudTrail)
 - 🔐 **Cybersecurity:** Ethical Hacking, SQL Injection Prevention, Nmap Scanning
 - 🖥 **Linux & Networking:** Virtual Machines, Ubuntu, Firewalls, VPNs
-- 🛠 **DevOps & Automation:** CI/CD, Infrastructure as Code (IaC), Shell Scripting
-- 📊 **Data & Analytics:** Data Science Basics
+- 🛠 **DevOps & Automation:** 
 
 ## 📌 Projects
 - **Secure Login System** 🔒 – Implemented MySQL authentication with SQL injection prevention
