@@ -12,8 +12,8 @@ I'm a **Computer Science Engineering** student passionate about **Cloud Computin
 ## 📌 Projects
 - **Secure Login System** 🔒 – Implemented MySQL authentication with SQL injection prevention
 📌 Projects
-✅ Secure Login System 🔒 – Implemented MySQL authentication with SQL injection prevention
-✅ Auto-Caption Generator for Videos 🎥 – Developed a serverless application using AWS Lambda, Amazon Transcribe, and S3 to generate captions for videos automatically
+- ✅ Secure Login System 🔒 – Implemented MySQL authentication with SQL injection prevention
+- ✅ Auto-Caption Generator for Videos 🎥 – Developed a serverless application using AWS Lambda, Amazon Transcribe, and S3 to generate captions for videos automatically
 
 ## 🎯 Learning & Growth
 Currently diving deeper into **Cybersecurity**, **AWS**, and **DevOps**.
