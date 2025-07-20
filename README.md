@@ -1,77 +1,82 @@
-<h1 align="center">Hi 👋, I’m Harsh Nilve</h1>
-<h3 align="center">Cloud Enthusiast | Cybersecurity Learner | DevOps Explorer</h3>
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/221048/screenshots/5494611/working.gif" />
-
----
-
-- 🔭 **Currently working on:**  
-   Improving my skills in **Cybersecurity**, **Cloud (AWS)**, and **DevOps**  
-- 🌱 **Currently learning:**  
-   Advanced **AWS**, threat modeling, CI/CD, and serverless architecture  
-- 👯 **Looking to collaborate on:**  
-   Open-source projects on cloud security, automation, or scalable applications  
-- 💬 **Ask me about:**  
-   Cloud best practices, ethical hacking tips, AWS hands-on, or Linux/server setups  
-- 📫 **How to reach me:**  
-   [LinkedIn](https://www.linkedin.com/in/harsh-nilve-b0a6952a8/) | [Medium](https://medium.com/@harshnilve/a-beginners-guide-to-launching-and-connecting-ec2-instances-on-aws-4343c7d80ae5)
-- ⚡ **Fun facts:**  
-   I love simplifying complex problems and building secure, reliable cloud solutions!
-
----
-
-## 🚀 Skills & Tools
-
-<table>
-  <tr>
-    <td><b>Cloud</b></td>
-    <td>AWS (EC2, S3, VPC, IAM, RDS, CloudFront, CloudTrail), Serverless, Auto Scaling</td>
-  </tr>
-  <tr>
-    <td><b>Programming</b></td>
-    <td>Python, JavaScript (Node.js), SQL, Bash, HTML, CSS</td>
-  </tr>
-  <tr>
-    <td><b>Cybersecurity</b></td>
-    <td>Ethical Hacking, Nmap, Burp Suite, SQL Injection Prevention, Firewalls, VPNs</td>
-  </tr>
-  <tr>
-    <td><b>DevOps & Automation</b></td>
-    <td>CI/CD (GitHub Actions), Docker, Git, Bash Scripting</td>
-  </tr>
-  <tr>
-    <td><b>Linux & Networking</b></td>
-    <td>Ubuntu, Virtual Machines, TCP/IP, SSH, Routing, Port Scanning</td>
-  </tr>
-  <tr>
-    <td><b>Other Skills</b></td>
-    <td>Data Structures, Algorithms, Problem-Solving, AI Tools (Perplexity Pro, DALL-E)</td>
-  </tr>
-</table>
-
----
-
-## 📌 Projects
-
-- **Secure Login System 🔒:**  
-  Designed a MySQL-backed login platform with robust SQL injection prevention.
-
-- **Auto-Caption Generator for Videos 🎥:**  
-  Built a seamless, serverless app with AWS Lambda, Amazon Transcribe, and S3 for automated video captioning.
-
-- **More coming soon! 🚀**
-
----
-
-## 🎯 Always Learning
-
-- Practicing advanced algorithms and data structures
-- Exploring **cloud automation** and **security frameworks**
-- Diving into practical applications of **machine learning** and **AI tools**
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Harsh+Nilve;Cloud+%7C+Cybersecurity+%7C+DevOps;Passionate+about+AWS%2C+Security%2C+Automation;Building+and+Securing+Scalable+Systems" alt="Typing SVG" />
+</p>
 
 <p align="center">
-Let’s connect and build something awesome in the world of Cloud & Cybersecurity!<br>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
+  <a href="https://www.linkedin.com/in/harsh-nilve-b0a6952a8/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harshnilve383gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@harshnilve" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20on-Medium-02B875?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://github.com/harshnilve">
+    <img src="https://img.shields.io/badge/Follow-Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 🚀 About Me
+
+**Cloud Engineering • Cybersecurity Enthusiast • DevOps Learner**
+
+I’m a final-year **Computer Science Engineering** student exploring the intersection of **cloud platforms** and **system security**. Skilled at architecting robust, scalable, and secure solutions—especially on **AWS**—I enjoy automating workflows and finding clean fixes for security vulnerabilities.
+
+- ☁️ Focused on **AWS** cloud infrastructure, automation, and DevOps
+- 🔐 Practicing **ethical hacking** and studying cybersecurity best practices
+- 🖥️ Experienced with **Linux**, virtualization, and networking
+- 💡 Constantly learning modern technologies and security strategies!
+
+---
+
+## 🧰 Tech Stack
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 💻 Programming / Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🔐 Security & Networking
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-6e5494?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+- **🔒 Secure Login System:**  
+  MySQL-based auth system built with SQL injection prevention & secure best practices.
+
+- **🎥 Auto-Caption Generator:**  
+  Serverless workflow using AWS Lambda, Amazon Transcribe, and S3 to convert videos to captioned versions.
+
+---
+
+## 🎯 Currently Exploring
+- Cloud Security Automation  
+- Advanced AWS Architectures  
+- Javascript
+- DevOps
+
+---
+
+## 🤝 Let's Connect!
+I'm always interested in collaborating on **cloud, security, or automation projects**.  
+Reach out on [LinkedIn](https://www.linkedin.com/in/harsh-nilve-b0a6952a8/) or [Medium](https://medium.com/@harshnilve).  
+Let’s create something impactful together!
+
