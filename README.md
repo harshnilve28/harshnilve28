@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:harshnilve383gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-harshnilve383gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://medium.com/@harshnilve" target="_blank">
     <img src="https://img.shields.io/badge/Read%20on-Medium-02B875?style=for-the-badge&logo=medium&logoColor=white" />
