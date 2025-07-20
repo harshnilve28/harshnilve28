@@ -6,16 +6,18 @@
   <a href="https://www.linkedin.com/in/harsh-nilve-b0a6952a8/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:harshnilve383gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-harshnilve383gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:harshnilve383@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-harshnilve383@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://medium.com/@harshnilve" target="_blank">
     <img src="https://img.shields.io/badge/Read%20on-Medium-02B875?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://github.com/harshnilve">
+  <a href="https://github.com/harshnilve" target="_blank">
     <img src="https://img.shields.io/badge/Follow-Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+
 
 ---
 
