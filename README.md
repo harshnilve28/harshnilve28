@@ -90,7 +90,8 @@ I'm a final-year **Computer Science Engineering** student exploring the intersec
 
 <div align="center">
   <a href="https://github.com/harshnilve28/AWS-Expense-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshnilve28&repo=AWS-Expense-Tracker&theme=radical&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshnilve28&repo=AWS-Expense-Tracker&theme=radical&hide_border=true&border_radius=10&v=2" />
+
   </a>
   <a href="https://github.com/harshnilve28/Auto-Caption-Generator-for-Videos">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshnilve28&repo=Auto-Caption-Generator-for-Videos&theme=radical&hide_border=true&border_radius=10" />
@@ -98,7 +99,7 @@ I'm a final-year **Computer Science Engineering** student exploring the intersec
 </div>
 
 - **💰 AWS Expense Tracker:**  
-  Cloud-native expense tracking application with AWS Lambda, S3 presigned URLs, and MongoDB integration for secure financial management.
+  Cloud expense tracking Website with EC2-hosted frontend, AWS Lambda backend, S3 presigned URLs, and DynamoDB for secure financial management.
 
 - **🎥 Auto-Caption Generator:**  
   Serverless workflow using AWS Lambda, Amazon Transcribe, and S3 to convert videos to captioned versions.
