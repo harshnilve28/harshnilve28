@@ -89,16 +89,16 @@ I'm a final-year **Computer Science Engineering** student exploring the intersec
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/harshnilve28/SQL-Sequel-Injection-Prevention">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshnilve28&repo=SQL-Sequel-Injection-Prevention&theme=radical&hide_border=true&border_radius=10" />
+  <a href="https://github.com/harshnilve28/AWS-Expense-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshnilve28&repo=AWS-Expense-Tracker&theme=radical&hide_border=true&border_radius=10" />
   </a>
   <a href="https://github.com/harshnilve28/Auto-Caption-Generator-for-Videos">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshnilve28&repo=Auto-Caption-Generator-for-Videos&theme=radical&hide_border=true&border_radius=10" />
   </a>
 </div>
 
-- **🔒 Secure Login System:**  
-  MySQL-based auth system built with SQL injection prevention & secure best practices.
+- **💰 AWS Expense Tracker:**  
+  Cloud-native expense tracking application with AWS Lambda, S3 presigned URLs, and MongoDB integration for secure financial management.
 
 - **🎥 Auto-Caption Generator:**  
   Serverless workflow using AWS Lambda, Amazon Transcribe, and S3 to convert videos to captioned versions.
